@@ -1,0 +1,18 @@
+
+body{
+    font-family: 'Nunito Sans', sans-serif;    
+    background-color: #1E1168;
+}
+
+.my-color{
+    background-color: #F3F0E7;
+}
+h1{
+    color: #1E1168;
+    font-size: 80px;
+    font-weight: 100;
+}
+img{
+    margin-top: 50px;
+    margin-left: 50%;
+}
